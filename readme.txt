@@ -1,4 +1,4 @@
-Esse é um projeto de um banco chamado Bitebank, criado na linguagem Java.
+Esse é um projeto de um banco chamado Bytebank, criado na linguagem Java.
 
 Foram criados duas classes: uma para a criação de um cliente e outra para a criação de uma conta. 
 
